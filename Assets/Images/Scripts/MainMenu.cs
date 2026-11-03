@@ -25,6 +25,6 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-    SceneManager.LoadScene("INICIO");
+    SceneManager.LoadScene("CAMPALT");
     }
 }
